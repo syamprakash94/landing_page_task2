@@ -1,0 +1,46 @@
+
+body{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.logo{
+    width: 176px;
+    height: 61px;
+}
+#signupBtn{
+    width: 200px;
+    border-radius: 20px;
+    padding-right:30px;
+}
+.d-flex{
+    
+    /* padding-left:80px; */
+}
+#navList{
+
+    padding-left: 580px;
+    color: darkgray;
+}
+.mainHead{
+    margin-top: 40px;
+    font-size: 40px;
+}
+.mainHead1{
+    font-weight: 700;
+}
+.sub1{
+    margin-top: 50px;
+    color: darkgrey;
+}
+.sub2{
+    margin-top: 20px;
+    
+}
+.subButton{
+    border-radius: 5px;
+    color: darkgray;
+}
+.card1{
+    background-color: #2D3436;
+}
